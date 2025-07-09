@@ -1,2 +1,2 @@
-nombre de usurio David 
-Correo david@gmail.com
+nombre de usurio Yomer
+Correo Yomer@gmail.com
